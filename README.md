@@ -20,6 +20,4 @@ docs/   documentation, notes, sujets transmis
 src/    code source
 ```
 
-## Suivi
 
-Travail en autonomie ; les échanges avec les encadrants se font selon leurs disponibilités.
