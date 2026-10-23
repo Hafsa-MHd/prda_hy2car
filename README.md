@@ -16,7 +16,7 @@ Outils prévus : Java, JSON, Git.
 ## Structure du dépôt
 
 ```
-docs/   documentation, notes, sujets transmis par les encadrants
+docs/   documentation, notes, sujets transmis 
 src/    code source
 ```
 
