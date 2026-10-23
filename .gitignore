@@ -1,0 +1,32 @@
+# Java / build
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+build/
+.gradle/
+*.iml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / local
+.env
+.env.*
+*.pem
+*.key
+
+# Logs / temp
+*.log
+tmp/
+temp/
