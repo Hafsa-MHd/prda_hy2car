@@ -4,7 +4,7 @@ Projet de recherche / développement (ENSEM) — optimisation par cosimulation d
 
 **Élève :** Hafsa Mehdaoui  
 **Laboratoire :** LORIA  
-**Encadrants :** Vincent Chevrier, Diego Alejandro Vega  
+**Encadrants :** Vincent Chevrier, Diego Alejandro Vega Vega 
 **Période :** octobre 2026 – février 2027
 
 ## Sujet
